@@ -5,8 +5,8 @@
   <tr>
     <td align=center>网门 網門<br/>
       欢迎来到固定网址页面，请收藏<br/>
-      https://git.io/ogate<br/>
-      https://github.com/ogate/ogate<br/>
+      https://git.io/ogate2<br/>
+      https://github.com/ogate2/ogate<br/>
     </td>
   </tr>
   <tr>
@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td align=center>
-      下载安卓版，更快更方便<br/><a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
+      下载安卓版，更快更方便<br/><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk">https://git.io/ogatea2</a><br/>
     </td>
   </tr>
   <tr>
