@@ -1,3 +1,5 @@
+<h4>如果您当前正在使用微信浏览网页，建议使用浏览器打开网址。</h4>
+<p>方法：在右上角点击更多（三个点），选择“在浏览器打开”即可。</p>
 <table>
   <tr>
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td>
