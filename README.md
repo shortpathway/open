@@ -8,8 +8,7 @@
 </p>
 <p>
   网站直连入口1：<a>http://dwz.cn/6CpqjB</a></br>网站直连入口2：<a>http://dwz.cn/6CpsQ2</a>
-</p>
-<p>※如果网页加载缓慢，请耐心等待或刷新网页尝试。</p>
+<br/>※如果网页加载缓慢，请耐心等待或刷新网页尝试。</p>
 <p>
   欢迎收藏与分享，网页二维码：</br>
 <img src="http://pan.baidu.com/share/qrcode?w=200&h=200&url=https://github.com/shortpathway/open" alt="">
