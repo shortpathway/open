@@ -1,8 +1,8 @@
 <table>
   <tr>
     <td>
-      如果您当前正在使用微信浏览网页，建议使用浏览器打开网页。</br>
-      方法：在右上角点击更多（三个点），选择“在浏览器打开”即可。
+      如果您当前正在使用微信/支付宝浏览网页，建议使用浏览器打开网页。</br>
+      方法：在右上角点击更多(三个点)，选择“在浏览器打开”即可。
     </td>
   </tr>
   <tr>
@@ -21,7 +21,7 @@
   </tr>
   <tr>
   <td align=center>
-    欢迎收藏与分享，网页二维码：</br>
+    <b>欢迎收藏与分享，网页二维码</b></br>
     <img src="http://pan.baidu.com/share/qrcode?w=200&h=200&url=https://github.com/shortpathway/open/blob/master/README.md" alt="">
   </td>
   </tr>
