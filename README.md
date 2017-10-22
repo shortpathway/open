@@ -20,9 +20,9 @@
     </td>
   </tr>
   <tr>
-  <td>
+  <td align=center>
     欢迎收藏与分享，网页二维码：</br>
-    <img src="http://pan.baidu.com/share/qrcode?w=200&h=200&url=https://github.com/shortpathway/open" alt="">
+    <img src="http://pan.baidu.com/share/qrcode?w=200&h=200&url=https://github.com/shortpathway/open/blob/master/README.md" alt="">
   </td>
   </tr>
 </table>
