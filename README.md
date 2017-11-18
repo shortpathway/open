@@ -7,24 +7,25 @@
   </tr>
   <tr>
     <td>软件下载：
-    </br><a>http://dwz.cn/6CoFda</a> (“无界”手机版)
-    </br><a>http://dwz.cn/6CoHUf</a> (“无界”电脑版)
-    </br><a>http://dwz.cn/6Cpw3Y</a> (“自由门”手机版)
-    </br><a>http://dwz.cn/6CpBZ7</a> (“自由门”电脑版)
+    </br><a href="https://raw.githubusercontent.com/wujieliulan/download/master/um.apk">点击下载“无界”手机版</a>
+    </br><a href="https://raw.githubusercontent.com/wujieliulan/download/master/u.zip">点击下载“无界”电脑版</a>
+    </br><a href="https://raw.githubusercontent.com/freegate-release/website/gh-pages/files/fgma.apk">点击下载“自由门”手机版</a>
+    </br><a href="https://raw.githubusercontent.com/freegate-release/website/gh-pages/files/fgma32.apk">点击下载“自由门”电脑版</a>
     </td>
   </tr>
   <tr>
     <td>
-      网站直连入口1：<a>http://dwz.cn/6CpqjB</a></br>
-      网站直连入口2：<a>http://dwz.cn/6S3RaG</a></br>
-      网站直连入口3：<a>http://dwz.cn/6S3Oxk</a></br>
-      网站直连入口4：<a>http://dwz.cn/6CpsQ2</a></br>
-      网站直连入口5：<a>http://dwz.cn/5bIbSh</a></br>
-      网站直连入口6：<a>http://dwz.cn/6S3VVj</a></br>
-      网站直连入口7：<a>http://dwz.cn/6S3XLw</a></br>
-      网站直连入口8：<a>http://dwz.cn/6S3Zbu</a></br>
-      网站直连入口9：<a>http://dwz.cn/6S3ZQq</a></br>
-      网站直连入口10：<a>http://dwz.cn/6S40NX</a>
+      网站直连:
+      </br><a href="https://github.com/ju99/e/wiki?src=jww">入口1</a>
+      <span></span><a href="https://github.com/hao369/a/wiki/jyg">入口2</a>
+      <span></span><a href="https://github.com/zx166/166/blob/master/README.md">入口3</a>
+      <span></span><a href="https://github.com/oGate2/oGate/blob/master/README.md">入口4</a>
+      <span></span><a href="https://github.com/osurf/osurf/blob/master/README.md">入口5</a>
+      <span></span><a href="https://github.com/tomalltruthforyou/truth/wiki">入口6</a>
+      <span></span><a href="https://github.com/zx166/organ/blob/master/README.md">入口7</a>
+      <span></span><a href="https://github.com/tv72/a/blob/master/README.md">入口8</a>
+      <span></span><a href="https://github.com/tv72/b/blob/master/README.md">入口9</a>
+      <span></span><a href="https://github.com/tv72/c/blob/master/README.md">入口10</a>
     <br/>※如果网页加载缓慢，请耐心等待或刷新网页尝试。
     </td>
   </tr>
