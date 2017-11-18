@@ -26,12 +26,12 @@
       <span></span><a href="https://github.com/tv72/a/blob/master/README.md">网站8</a>
       <span></span><a href="https://github.com/tv72/b/blob/master/README.md">网站9</a>
       </br><span></span><a href="https://github.com/tv72/c/blob/master/README.md">网站10</a>
-    <br/>※如果网页加载缓慢，请耐心等待或刷新网页尝试。
+    <br/><b>※</b>如果网页加载缓慢，请耐心等待或刷新网页尝试。
     </td>
   </tr>
   <tr>
   <td align=center>
-    <b>☆欢迎收藏与分享，网页二维码▼</b></br>
+    <b>☆ 欢迎收藏与分享，网页二维码▼</b></br>
     <img src="http://pan.baidu.com/share/qrcode?w=200&h=200&url=https://github.com/shortpathway/open/blob/master/README.md" alt="">
   </td>
   </tr>
