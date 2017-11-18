@@ -24,8 +24,7 @@
       网站直连入口7：<a>http://dwz.cn/6S3XLw</a></br>
       网站直连入口8：<a>http://dwz.cn/6S3Zbu</a></br>
       网站直连入口9：<a>http://dwz.cn/6S3ZQq</a></br>
-      网站直连入口10：<a>http://dwz.cn/6S40NX</a></br>
-      网站直连入口11：<a>http://dwz.cn/6S416o</a>
+      网站直连入口10：<a>http://dwz.cn/6S40NX</a>
     <br/>※如果网页加载缓慢，请耐心等待或刷新网页尝试。
     </td>
   </tr>
