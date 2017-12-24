@@ -10,7 +10,7 @@
       <table>
         <tr>
           <td>
-            <a href="https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.apk">下载“无界”手机版</a>
+            <a href="https://raw.githubusercontent.com/wujieliulan/download/master/um.apk">下载“无界”手机版</a>
           </td>
           <td>
             <a href="https://raw.githubusercontent.com/freegate-release/website/gh-pages/files/fgma.apk">下载“自由门”手机版</a>
@@ -66,7 +66,7 @@
   </tr>
   <tr>
   <td align=center>
-    <b>☆ 若收藏与分享本站，二维码在此▼</b></br>
+    <b>☆ 若收藏或分享本站，二维码在此▼</b></br>
     <img src="http://pan.baidu.com/share/qrcode?w=200&h=200&url=https://github.com/shortpathway/open/blob/master/README.md" alt="">
   </td>
   </tr>
