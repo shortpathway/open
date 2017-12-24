@@ -61,12 +61,12 @@
           </td>
         </tr>
       </table>
-      <b>#</b>如果网页加载缓慢，请耐心等待、刷新网页或更换其他链接尝试。
+      <b>#</b>如果网页加载缓慢，请耐心等待、刷新网页或更换其他网址尝试。
     </td>
   </tr>
   <tr>
   <td align=center>
-    <b>☆ 欢迎收藏与分享，网页二维码▼</b></br>
+    <b>☆ 若收藏与分享本站，二维码在此▼</b></br>
     <img src="http://pan.baidu.com/share/qrcode?w=200&h=200&url=https://github.com/shortpathway/open/blob/master/README.md" alt="">
   </td>
   </tr>
