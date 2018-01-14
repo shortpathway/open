@@ -51,13 +51,7 @@
             <a href="https://github.com/zx166/organ/blob/master/README.md">网址5</a>
           </td>
           <td>
-            <a href="https://github.com/tv72/a/blob/master/README.md">网址6</a>
-          </td>
-          <td>
-            <a href="https://github.com/tv72/b/blob/master/README.md">网址7</a>
-          </td>
-          <td>
-            <a href="https://github.com/tv72/c/blob/master/README.md">网址8</a>
+            <a href="https://github.com/bannedbook/fanqiang/wiki">网址6</a>
           </td>
         </tr>
       </table>
