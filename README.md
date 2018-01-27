@@ -50,9 +50,6 @@
           <td>
             <a href="https://github.com/zx166/organ/blob/master/README.md">网址5</a>
           </td>
-          <td>
-            <a href="https://github.com/bannedbook/fanqiang/wiki">网址6</a>
-          </td>
         </tr>
       </table>
       <b>#</b>如果网页加载缓慢，请耐心等待、刷新网页或更换其他网址尝试。
