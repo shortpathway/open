@@ -33,13 +33,10 @@
       <table>
         <tr>
           <td>
-            <a href="https://github.com/ju99/e/wiki?src=jww">网址1</a>
+            <a href="https://github.com/hao369/a/wiki/jyg">网址1</a>
           </td>
           <td>
-            <a href="https://github.com/hao369/a/wiki/jyg">网址2</a>
-          </td>
-          <td>
-            <a href="https://github.com/oGate2/oGate/blob/master/README.md">网址3</a>
+            <a href="https://github.com/oGate2/oGate/blob/master/README.md">网址2</a>
           </td>
           <td>
             <a href="https://github.com/shortpathway/books/blob/master/README.md">禁书下载</a>
