@@ -33,16 +33,16 @@
       <table>
         <tr>
           <td>
-            <a href="https://github.com/hao369/a/wiki/jyg">网址1</a>
+            <a href="https://github.com/hao369/a/wiki/jyg">入口</a>
           </td>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/README.md">网址2</a>
+            <a href="https://github.com/gfw-breaker/banned-news/blob/master/README.md">入口</a>
           </td>
           <td>
-            <a href="https://github.com/oGate2/oGate/blob/master/README.md">网址3</a>
+            <a href="https://github.com/oGate2/oGate/blob/master/README.md">入口</a>
           </td>
           <td>
-            <a href="https://github.com/zcgj/zcgj/blob/master/README.md">网址4</a>
+            <a href="https://github.com/zcgj/zcgj/blob/master/README.md">入口</a>
           </td>
           <td>
             <a href="https://github.com/shortpathway/books/blob/master/README.md">禁书</a>
