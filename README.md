@@ -72,7 +72,7 @@
   <td align=center>
     </br>
     <b>☆ 若收藏或分享本站，二维码在此▼</b></br>
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&qzone=1&data=https://github.com/shortpathway/open/blob/master/README.md" alt="">
+    <img src="http://qr.topscan.com/api.php?w=200&m=10&text=https://github.com/shortpathway/open" alt="">
     </br></br>
   </td>
   </tr>
